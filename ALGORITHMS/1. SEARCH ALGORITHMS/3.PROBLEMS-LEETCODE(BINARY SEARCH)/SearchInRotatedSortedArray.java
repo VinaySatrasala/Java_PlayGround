@@ -1,6 +1,6 @@
 public class SearchInRotatedSortedArray {
     public static void main(String[] args) {
-        int[] nums={10,8,0,1,2,3,8};
+        int[] nums={0,1,2,3,8};
         int target=8;
         System.out.println(findindex(nums, target));
     }
