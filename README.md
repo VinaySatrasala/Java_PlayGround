@@ -52,3 +52,13 @@
 ### 6 th oct 2022
 
 -->Searching in 2D Arrays
+
+### 14th oct 2022
+
+--> Leet Code Problems: 1.Right Interval
+                        2.Split Array Largets Sum
+                        3.Finding Minimum Number In Rotated Sorted Array
+                        4.Minimu Absolute Sum Difference
+-->Binary Search in 2D Arrays: 1.Brute Force
+                               2.Row And Column Sorted
+                               3.Strictly Sorted
