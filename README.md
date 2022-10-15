@@ -62,3 +62,7 @@
 -->Binary Search in 2D Arrays: 1.Brute Force
                                2.Row And Column Sorted
                                3.Strictly Sorted
+
+### 15th oct 2022
+
+--> Bubble Sort
