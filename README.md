@@ -66,3 +66,7 @@
 ### 15th oct 2022
 
 --> Bubble Sort
+
+### 16th oct 2022
+
+--> Leetcode square root of a number
