@@ -70,3 +70,11 @@
 ### 16th oct 2022
 
 --> Leetcode square root of a number
+
+### 17th oct 2022
+
+--> Selection sort
+
+### 18th oct 2022
+
+--> Insertion sort
