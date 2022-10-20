@@ -78,3 +78,13 @@
 ### 18th oct 2022
 
 --> Insertion sort
+
+### 20th oct 2022
+
+-->Cyclic sort Intutuion
+-->Cyclic sort leetcode problems: 1. Find Missing Number In Array
+                                  2. Find all numbers disappeared
+                                  3. Find dublicate number
+                                  4. Find all dublicates
+                                  5. Set mismatch
+                                  6. Smallest missing positive (Very important )
