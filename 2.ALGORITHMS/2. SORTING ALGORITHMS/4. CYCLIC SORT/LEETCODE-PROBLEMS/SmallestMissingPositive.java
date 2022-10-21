@@ -2,18 +2,18 @@ import java.util.Arrays;
 
 public class SmallestMissingPositive {
     public static void main(String[] args) {
-        int[] array={-1,1,3,9,-2,0,4};
+        int[] nums={-1,1,3,9,-2,0,4};
         int i=0;
-        while(i<array.length){
-            int correct=array[i]-1;
-            if(array[i]>0 && array[i]<=array.length && array[i]!=array[correct]){
-                int temp=array[i];
-                array[i]=array[correct];
-                array[correct]=temp;
+        while(i<nums.length){
+            int correct=nums[i]-1;
+            if(nums[i]>0 && nums[i]<=nums.length && nums[i]!=nums[correct]){
+                int temp=nums[i];
+                nums[i]=nums[correct];
+                nums[correct]=temp;
             }else{
                 i++;
             }
         }
-        System.out.println(Arrays.toString(array));
+        System.out.println(Arrays.toString(nums));
     }
 }

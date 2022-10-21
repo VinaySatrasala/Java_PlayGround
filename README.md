@@ -88,3 +88,9 @@
                                   4. Find all dublicates
                                   5. Set mismatch
                                   6. Smallest missing positive (Very important )
+
+### 21st oct 2022
+
+--> LeetCode : 1.Kth largest index
+               2.Merge intervals
+               3.Sort colors 
