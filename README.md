@@ -94,3 +94,8 @@
 --> LeetCode : 1.Kth largest index
                2.Merge intervals
                3.Sort colors 
+
+
+### 24th oct 2022
+
+--> LeetCode : Merge Intervals
