@@ -99,3 +99,8 @@
 ### 24th oct 2022
 
 --> LeetCode : Merge Intervals
+
+### 25th oct 2022
+
+--> LeetCode : Merge Intervals
+               Anagrams.
