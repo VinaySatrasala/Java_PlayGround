@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class InsertionSort{
     public static void main(String[] args) {
-        int[] array={-1,-1,-1,-1};
+        int[] array={7,4,5,6,7};
         for(int i=0;i<=array.length-2;i++){
             for(int j=i+1;j>0;j--){
                 if(array[j]>array[j-1]){
