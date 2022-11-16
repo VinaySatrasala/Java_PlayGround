@@ -122,3 +122,21 @@
 ### 14th nov 2022
 
 --> 😥
+
+### 15th nov 2022
+
+--> String Problems Basic
+
+### 16th nov 2022
+
+--> Leet code easy problems: 1.Defanging an Ip address
+                             2.Shuffle String
+                             3.Goal Parser Interpretation
+                             4.Count Items Matching a rule
+                             5.Sorting the Sentence
+                             6.Check if two strings are equivalent
+                             7.To Lower Case
+                             8.Determine if string halves are alike
+                             9.Decrypt String from Alphabet to Integer Mapping
+                             10.Number of Strings That Appear as Substrings in Word
+                             11.Robot Return to Origin
