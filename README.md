@@ -144,3 +144,7 @@
 ### 17th nov 2022
 
 --> 😥
+
+
+
+Don't feel sad on empty days and don't be happy on full days be normal😎✌......
