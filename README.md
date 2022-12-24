@@ -156,3 +156,10 @@ Don't feel sad on empty days and don't be happy on full days be normal😎✌...
 
 
 --> Reversing a string
+
+### 24th nov 2022
+
+-->Leet Code : 1.Power of a
+               2.Reverse String
+               3.Number of steps to reducr to zero
+
