@@ -163,3 +163,7 @@ Don't feel sad on empty days and don't be happy on full days be normal😎✌...
                2.Reverse String
                3.Number of steps to reducr to zero
 
+### 25th nov 2022
+
+--> Patterns in java
+
