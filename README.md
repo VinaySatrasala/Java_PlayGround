@@ -167,3 +167,16 @@ Don't feel sad on empty days and don't be happy on full days be normal😎✌...
 
 --> Patterns in java
 
+### 23rd jan 2023
+
+--> A. Bit wise operators: 1. Bit wise and
+                           2. Bit wise or
+                           3. Bit wise not
+    B. Number Systems
+    C.Results : 1.Even or odd
+                2.Finding unique element in array
+                3.Finding ith bit
+                4.set ith bit
+                5.reset ith bit
+
+
