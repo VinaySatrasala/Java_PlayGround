@@ -13,6 +13,9 @@ public class CyclicSortKunal {
                 array[i]=array[correct_index];
                 array[correct_index]=temp;
             }
+
+            String str="hello i am vinay";
+            String [] mn=String.split(str, " ");    
         }
 
     }
