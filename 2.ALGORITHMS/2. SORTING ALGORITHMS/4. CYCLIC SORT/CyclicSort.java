@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class CyclicSort{
     public static void main(String[] args) {
-        int[] array={5,3,5,1,2,4,1,1,2,3};
+        int[] array={2,2,3,4,1};
         int i=0;
         while(i<array.length){
             int correct_index=array[i]-1;
