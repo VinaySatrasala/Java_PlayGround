@@ -1,4 +1,4 @@
-public class FindingElementsInRotatedSortedArrayWithDuplicates {
+    public class FindingElementsInRotatedSortedArrayWithDuplicates {
     public static void main(String[] args) {
         int[] nums={10,8,0,1,2,3,8};
         int target=10;
