@@ -4,7 +4,7 @@ public class FindKthBitNthBinaryString{
     }
     static String invert(String str){
         int num=Integer.parseInt(str);
-        while()
+        // while()
         return " ";
     }
 }

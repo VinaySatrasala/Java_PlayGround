@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CountZeros",
+            "request": "launch",
+            "mainClass": "CountZeros",
+            "projectName": "LECTURE_9e0f4d07"
+        },
+        {
+            "type": "java",
+            "name": "PolindromeUsingRecursion",
+            "request": "launch",
+            "mainClass": "PolindromeUsingRecursion",
+            "projectName": "LECTURE_9e0f4d07"
+        },
+        {
+            "type": "java",
+            "name": "PrintOnetoFive",
+            "request": "launch",
+            "mainClass": "PrintOnetoFive",
+            "projectName": "LECTURE_9e0f4d07"
+        },
+        {
+            "type": "java",
+            "name": "ProductOfDigits",
+            "request": "launch",
+            "mainClass": "ProductOfDigits",
+            "projectName": "LECTURE_9e0f4d07"
+        },
+        {
+            "type": "java",
+            "name": "ReverseOfaNumber",
+            "request": "launch",
+            "mainClass": "ReverseOfaNumber",
+            "projectName": "LECTURE_9e0f4d07"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigits",
+            "request": "launch",
+            "mainClass": "SumOfDigits",
+            "projectName": "LECTURE_9e0f4d07"
+        }
+    ]
+}
