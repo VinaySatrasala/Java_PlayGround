@@ -3,7 +3,6 @@ import java.util.Arrays;
 public class SelectionSort{
     public static void main(String[] args) {
         int[] nums={214114,1433,4,55,3213,3345,6766,2242,1,2,3,4,5,6,7};
-        Str str=(String)10;
         
         for(int i=0;i<nums.length;i++){
             swap(nums, max(nums, 0, nums.length-1-i), nums.length-1-i);

@@ -2,8 +2,8 @@ import java.util.ArrayList;
 
 public class SubSetsOfABC{
     public static void main(String[] args) {
-        f3("abc" , "");
-        // System.out.println(helper("abc"));
+        // f3("abc" , "");
+        System.out.println(helper("abc"));
         // System.out.println(f2("abc", ""));
     }
 

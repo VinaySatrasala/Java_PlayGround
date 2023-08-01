@@ -1,4 +1,5 @@
 import java.util.Arrays;
+import java.util.Stack;
 
 public class BinarySearch {
     public static void main(String[] args) {
@@ -14,6 +15,9 @@ public class BinarySearch {
         int[] array2={99,98,97,96};
         int descindex=desending(array2, 55);
         System.out.println(descindex);
+
+
+        Stack<Integre> st = new Stack<>();
     }
     //Ascending Order:->
     static int binary(int[] array,int start,int end,int target){

@@ -11,6 +11,8 @@ public class InsertionSort{
                     swap(array, j, j-1);
                 }
             }
+            System.out.println(Arrays.toString(array));
+
         }
         System.out.println(Arrays.toString(array));
     }

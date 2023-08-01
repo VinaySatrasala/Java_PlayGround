@@ -31,7 +31,7 @@ public class Permutations {
             return list;
         }
         char ch = up.charAt(0);
-        String newUp = up.substring(1);
+        String newUp = up.substring(1); 
 
         int size = p.length();
 

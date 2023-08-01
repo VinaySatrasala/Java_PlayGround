@@ -3,6 +3,7 @@ import java.util.List;
 
 public class Maize1PathCount {
     public static void main(String[] args) {
+        // String
         // System.out.println(f(3, 3));\
         // System.out.println(helper(3, 3));
         // System.out.println(helper2(3, 3));
@@ -16,7 +17,6 @@ public class Maize1PathCount {
 
         int lc = f(r-1, c);
         int rc = f(r, c-1);
-
         return lc + rc;
     }
 
