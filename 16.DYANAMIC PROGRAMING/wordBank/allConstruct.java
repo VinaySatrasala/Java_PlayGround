@@ -43,7 +43,7 @@ public class allConstruct {
         }
 
         if(map.containsKey(word)){
-            System.out.println(word + map.get(word) + "ret");
+            System.out.println(word + map.get(word) + "ret ");
             return map.get(word);
         }
 
